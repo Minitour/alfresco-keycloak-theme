@@ -12,10 +12,10 @@
 			<use xlink:href="#SVGID_1_"  overflow="visible"/>
 		</clipPath>
 		<g clip-path="url(#SVGID_2_)">
-			<circle opacity="0.8" fill="#8BC34A" cx="16" cy="6272" r="5120"/>
-			<circle opacity="0.6" fill="#03A9F4" cx="4096" cy="2048" r="2560"/>
-			<circle opacity="0.8" fill="#FF9800" cx="0" cy="-256" r="1920"/>
-			<circle opacity="0.3" fill="#FFD600" cx="-384" cy="1280" r="1280"/>
+			<circle opacity="0.8" fill="#57ADAE" cx="16" cy="7000" r="5120"/>
+			<circle opacity="0.6" fill="#57ADAE" cx="4096" cy="2048" r="2560"/>
+			<circle opacity="0.9" fill="#FBD42D" cx="0" cy="-256" r="1920"/>
+			<!-- <circle opacity="0.3" fill="#FFD600" cx="-384" cy="1280" r="1280"/> -->
 		</g>
 	</g>
 </g>
